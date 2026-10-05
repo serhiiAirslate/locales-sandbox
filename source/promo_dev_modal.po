@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pdffiller\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "PROMO_DEV_MODAL_TEMPLATE_LIBRARY_CTA_BUTTON_TEXT"
+msgid "Browse"
+msgstr "Browse"
+
+msgctxt "PROMO_DEV_MODAL_TEMPLATE_LIBRARY_DESCRIPTION"
+msgid "Find any form in seconds."
+msgstr "Find any form in seconds."
+
+msgctxt "PROMO_DEV_MODAL_TEMPLATE_LIBRARY_TITLE"
+msgid "Meet the new Template Library"
+msgstr "Meet the new Template Library"
