@@ -1,0 +1,23 @@
+name: Manual run build
+run-name: "Build with branch: ${{ github.ref_name }}"
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run_build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build
+        run: python3 .github/build.py "ga${{ github.run_id }}" "${{ github.ref_name }}"
+      # The files are in place before the run succeeds, so whoever finds the run finds them too.
+      - name: Publish
+        run: |
+          git config user.name "sandbox-build"
+          git config user.email "sandbox-build@users.noreply.github.com"
+          git add branches
+          git commit -m "build ga${{ github.run_id }} of ${{ github.ref_name }}"
+          git push origin HEAD:main

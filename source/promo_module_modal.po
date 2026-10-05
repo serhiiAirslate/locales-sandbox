@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pdffiller\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "PROMO_MODULE_MODAL_CONTENT_NEW_FEATURE"
+msgid "New Feature"
+msgstr "New Feature"
+
+msgctxt "PROMO_MODULE_MODAL_CONTENT_UPDATE_COUNTER"
+msgid "{*CURRENT*} of {*TOTAL*}"
+msgstr "{*CURRENT*} of {*TOTAL*}"
+
+msgctxt "PROMO_MODULE_MODAL_CONTENT_UPDATE_LABEL"
+msgid "Update {*CURRENT*} of {*TOTAL*}"
+msgstr "Update {*CURRENT*} of {*TOTAL*}"
+
+msgctxt "PROMO_MODULE_MODAL_CONTENT_DONT_SHOW_AGAIN"
+msgid "Don’t show this again"
+msgstr "Don’t show this again"
+
+msgctxt "PROMO_MODULE_MODAL_CONTENT_CLOSE"
+msgid "Close"
+msgstr "Close"
