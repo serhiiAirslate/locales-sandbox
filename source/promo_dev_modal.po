@@ -18,8 +18,8 @@ msgid "Maybe later"
 msgstr "Maybe later"
 
 msgctxt "PROMO_DEV_MODAL_TEMPLATE_LIBRARY_TITLE"
-msgid "Meet the new Template Library"
-msgstr "Meet the new Template Library"
+msgid "Meet the new Template Library 2"
+msgstr "Meet the new Template Library 2"
 
 msgctxt "PROMO_DEV_MODAL_TEMPLATE_LIBRARY_UPDATE_1_DESCRIPTION"
 msgid "Find any form by name, category or agency in one place."
