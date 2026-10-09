@@ -21,6 +21,46 @@ msgctxt "PROMO_DEV_MODAL_SIGNED_COMMIT_CHECK_TITLE"
 msgid "Meet the new Template Library 2"
 msgstr "Meet the new Template Library 2"
 
+msgctxt "PROMO_DEV_MODAL_SIGNED_COMMIT_CHECK_TWO_CTA_BUTTON_TEXT"
+msgid "Browse"
+msgstr "Browse"
+
+msgctxt "PROMO_DEV_MODAL_SIGNED_COMMIT_CHECK_TWO_DESCRIPTION"
+msgid "Find any form in seconds."
+msgstr "Find any form in seconds."
+
+msgctxt "PROMO_DEV_MODAL_SIGNED_COMMIT_CHECK_TWO_SECONDARY_BUTTON_TEXT"
+msgid "Maybe later"
+msgstr "Maybe later"
+
+msgctxt "PROMO_DEV_MODAL_SIGNED_COMMIT_CHECK_TWO_TITLE"
+msgid "Meet the new Template Library 2"
+msgstr "Meet the new Template Library 2"
+
+msgctxt "PROMO_DEV_MODAL_SIGNED_COMMIT_CHECK_TWO_UPDATE_1_DESCRIPTION"
+msgid "Find any form by name, category or agency in one place."
+msgstr "Find any form by name, category or agency in one place."
+
+msgctxt "PROMO_DEV_MODAL_SIGNED_COMMIT_CHECK_TWO_UPDATE_1_TITLE"
+msgid "Search every template"
+msgstr "Search every template"
+
+msgctxt "PROMO_DEV_MODAL_SIGNED_COMMIT_CHECK_TWO_UPDATE_2_DESCRIPTION"
+msgid "Open a template and start filling it in a click."
+msgstr "Open a template and start filling it in a click."
+
+msgctxt "PROMO_DEV_MODAL_SIGNED_COMMIT_CHECK_TWO_UPDATE_2_TITLE"
+msgid "Fill it right away"
+msgstr "Fill it right away"
+
+msgctxt "PROMO_DEV_MODAL_SIGNED_COMMIT_CHECK_TWO_UPDATE_3_DESCRIPTION"
+msgid "Keep the forms you use most one click away."
+msgstr "Keep the forms you use most one click away."
+
+msgctxt "PROMO_DEV_MODAL_SIGNED_COMMIT_CHECK_TWO_UPDATE_3_TITLE"
+msgid "Save your favorites"
+msgstr "Save your favorites"
+
 msgctxt "PROMO_DEV_MODAL_SIGNED_COMMIT_CHECK_UPDATE_1_DESCRIPTION"
 msgid "Find any form by name, category or agency in one place."
 msgstr "Find any form by name, category or agency in one place."
